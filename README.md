@@ -1,3 +1,3 @@
 # AppLinksTest
 
-[AppLinksTest Page](https://andrebispo5.github.io/AppLinksTest/)
+[AppLinksTest Page](https://andrebispo5.github.io/)
