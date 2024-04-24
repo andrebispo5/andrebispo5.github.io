@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.x8bit.bitwarden.dev",
+      "sha256_cert_fingerprints":
+      ["04:18:FF:9B:3A:88:30:40:EE:3E:19:31:09:3A:7E:DC:A1:9B:2F:87:F4:55:38:8F:28:90:6B:F2:62:E3:2D:E7"]
+    }
+  }]
