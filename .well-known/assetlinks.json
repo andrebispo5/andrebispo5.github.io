@@ -1,9 +1,20 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.x8bit.bitwarden.dev",
-      "sha256_cert_fingerprints":
-      ["04:18:FF:9B:3A:88:30:40:EE:3E:19:31:09:3A:7E:DC:A1:9B:2F:87:F4:55:38:8F:28:90:6B:F2:62:E3:2D:E7"]
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "com.x8bit.bitwarden.dev",
+          "sha256_cert_fingerprints":
+          ["04:18:FF:9B:3A:88:30:40:EE:3E:19:31:09:3A:7E:DC:A1:9B:2F:87:F4:55:38:8F:28:90:6B:F2:62:E3:2D:E7"]
+        }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+          "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.applinks",
+            "sha256_cert_fingerprints":
+            ["A3:CD:72:BB:88:C3:E3:B9:51:25:F5:35:22:6A:2F:89:0C:AC:46:DF:27:1F:D6:94:D9:0A:60:11:1E:93:CA:27"]
+          }
     }
-  }]
+]
