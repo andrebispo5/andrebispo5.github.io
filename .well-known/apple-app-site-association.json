@@ -1,0 +1,32 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "8KLVAPH39C.com.8bit.bitwarden",
+                    "LTZ2PFU5D6.com.8bit.bitwarden",
+                    "LTZ2PFU5D6.com.8bit.bitwarden.beta",
+                    "Q6SZ37AHX7.com.livefront.bitwarden"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "/": "/email-verification/*",
+                        "comment": "Matches any URL with a path that starts with /email-verification/."
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "LTZ2PFU5D6.com.8bit.bitwarden",
+            "LTZ2PFU5D6.com.8bit.bitwarden.beta",
+            "Q6SZ37AHX7.com.livefront.bitwarden"
+        ]
+    }
+}
