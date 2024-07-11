@@ -8,9 +8,12 @@
                     "LTZ2PFU5D6.com.8bit.bitwarden.beta",
                     "Q6SZ37AHX7.com.livefront.bitwarden"
                 ],
+                "paths": [
+                    "*"
+                ],
                 "components": [
                     {
-                        "/": "/#/finish-signup/*",
+                        "/": "/finish-signup/*",
                         "comment": "Matches any URL with a path that starts with /finish-signup/."
                     }
                 ]
