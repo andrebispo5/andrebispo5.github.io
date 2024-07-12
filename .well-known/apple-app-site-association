@@ -9,13 +9,7 @@
                     "Q6SZ37AHX7.com.livefront.bitwarden"
                 ],
                 "paths": [
-                    "/#/finish-signup/*"
-                ],
-                "components": [
-                    {
-                        "/": "/finish-signup/*",
-                        "comment": "Matches any URL with a path that starts with /finish-signup/."
-                    }
+                    "*"
                 ]
             }
         ]
