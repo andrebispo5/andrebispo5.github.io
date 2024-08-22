@@ -10,8 +10,8 @@
                 ],
                 "components": [ 
                     {
-                      "#": "/finish-signup/*",
-                      "comment": "Matches any URL whose path starts with /finish-signup/"
+                      "/": "/redirect-connector.*",
+                      "comment": "Matches any URL whose path starts with /redirect-connector"
                     }
                 ]
             }
